@@ -1,2 +1,2 @@
 # Medical Diagnosis using Data Mining
-The model uses the multilayer perceptron Neural Network to train the data sets and check whether the patient has heart disease
+This system presents a method for predicting heart disease patients using major risk factors. This system incorporates two of the most successful data mining tools, neural networks and genetic algorithms. The proposed system will be implemented as a web-based application, where the user will give answers to the predefined questions. The system will retrieve the data from stored database collection and compares the user values with the trained data set using Multilayer perceptron Neural Network. A backpropagation algorithm will train the network using the weights optimized by the Genetic algorithm.
